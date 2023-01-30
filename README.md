@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://palante934.github.io/nlw/)
+[Clique aqui para acessar](https://palante934.github.io/NLW/)
 
 ## 🛠 Tecnologias
 
